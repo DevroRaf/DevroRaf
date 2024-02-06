@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @DevroRaf
 - 👀 I’m interested in arts and games
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning django/web
 - 📫 How to reach me a senior fullstack developer
 
 <!---
